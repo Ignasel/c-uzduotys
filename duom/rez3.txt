@@ -1,0 +1,19 @@
+Klase 1: 
+Samanta10
+Edvinas9.9
+Tomas9.5
+Nerijus7.1
+Klase 2: 
+Agne9.1
+Ieva8.2
+Simonas7.1
+Aurimas8.8
+Klase 3: 
+Lukas9.2
+Raminta8.5
+Tautvydas7.1
+Mantas6.7
+Klase 4: 
+Emilija10
+Austeja9.9
+Jokubas8.5

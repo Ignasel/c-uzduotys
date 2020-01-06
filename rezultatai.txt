@@ -1,0 +1,20 @@
+  Mokytojai  
+Vardenis     Petrauskas   Geografija  0
+Apolonijus   Pavardenis   Matematika  1
+Informatikas   Jonaitis   Informatika  2
+Valentinas   Gudrauskas   Chemija  3
+Jadvyga      Keturake   Fizika  4
+ Mokiniai  
+Jonas        Karcauskas   Geofrafija  7
+Petras       Petraitis   Matematika  5
+Alfonsas     Studentauskas   Informatika  8
+Rita         Statinaitiene   Chemija  9
+Laima        Kedžiuviene   Fizika  2
+Simona       Padvelskyte   Informatika  10
+Raminta      Masiulyte   Chemija  3
+Deividas     Stankus   Fizika  4
+Jonas        Kurtinaitis   Chemija  8
+Caldas       Šarkauskas   Fizika  7
+Justas       Pavardauskas   Fizika  7
+Daugiausia mokiniu turi   Keturake    Jadvygakuri desto  Fizika   4-iems mokiniams
+Mokytojas kurio mokiniai mokosi geriausiai Vardenis  Geografija   nan
